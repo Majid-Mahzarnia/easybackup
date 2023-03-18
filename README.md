@@ -14,7 +14,6 @@ How to use easybackup script?
 1- First an Ubuntu Server Version 20XX or higher is needed and then setup the following packeges on it:
 
 apt update && apt upgrade -y
-reboot
 
 apt install cifs-utils
 apt install net-tools
