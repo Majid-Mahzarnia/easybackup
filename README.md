@@ -19,11 +19,7 @@ apt install cifs-utils
 apt install net-tools
 
 2- Download and run the main script
-WGET script .....
-
-3- Download and run the main script
-chmod 700 ./easybackup.sh
-./easybackup.sh
+chmod 700 ./easybackup.sh && ./easybackup.sh
 
 Explanation:
 - Workplace directory is: a directory in which all backup job project files will be ctrated
