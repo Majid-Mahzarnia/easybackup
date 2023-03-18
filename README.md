@@ -18,7 +18,8 @@ How to use easybackup script?
 <br />
 **<br /> 2- Download and run the easybackup from this repository:**
 <br /> chmod 700 ./easybackup.sh 
-<br /> ./easybackup.sh
+<br />
+./easybackup.sh
 
 Explanation:
 - Workplace directory is: a directory in which all backup job project files will be ctrated
