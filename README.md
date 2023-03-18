@@ -11,15 +11,14 @@ There are too many software to make it easy to you but, we'd rather using an ope
 ####
 How to use easybackup script?
 
-1- First an Ubuntu Server Version 20XX or higher is needed and then setup the following packeges on it:
-
-apt update && apt upgrade -y
-
-apt install cifs-utils
-apt install net-tools
-
-2- Download and run the main script
-chmod 700 ./easybackup.sh && ./easybackup.sh
+**1- First an Ubuntu Server Version 20XX or higher is needed and then setup the following packeges on it:**
+<br />apt update && apt upgrade -y
+<br />apt install cifs-utils 
+<br />reboot
+<br />
+**<br /> 2- Download and run the easybackup from this repository:**
+<br /> chmod 700 ./easybackup.sh 
+<br /> ./easybackup.sh
 
 Explanation:
 - Workplace directory is: a directory in which all backup job project files will be ctrated
