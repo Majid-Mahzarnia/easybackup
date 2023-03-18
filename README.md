@@ -16,7 +16,7 @@ How to use easybackup script?
 <br />apt install cifs-utils 
 <br />reboot
 <br />
-**<br /> 2- Download and run the easybackup from this repository:**
+**<br /> 2- Download and run the easybackup script from this repository:**
 <br /> chmod 700 ./easybackup.sh 
 <br />
 ./easybackup.sh
