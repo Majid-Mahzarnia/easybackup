@@ -35,7 +35,7 @@ Explanation:
 - Source / Destination local mount Path is: a directory that network share Path 
 ####
 ####
-If you need more help, you can contact us:
+If you need more help about the easybackup script, you can contact us via:
 mahzarnia@hotmail.com
 majid.mahzarnia@gmail.com
 navid.nejati@gmail.com
