@@ -1,8 +1,9 @@
 # easybackup
 easybackup script 
 ####
-What is easybackup script and what it use for?
-easybackup script is a simple bash script that helps you to make schedule jobs to copy from smb share folder to anothe one.
+<br />What is easybackup script and what it use for?
+
+<br />easybackup script is a simple bash script that helps you to make schedule jobs to copy from smb share folder to anothe one.
 
 The main idea came from "navid.nejati@gmail.com" and it was about making an easy tool to backup huge MSSQL backup files on network share paths on specific time.
 Then an intermediate platform is needed as a scheduler and a controller, also some logs to make sure everything is ok with your schedule jobs are needed too.
@@ -31,6 +32,6 @@ Explanation:
 ####
 ####
 If you need more help about the easybackup script, you can contact us via:
-mahzarnia@hotmail.com
-majid.mahzarnia@gmail.com
-navid.nejati@gmail.com
+<br />mahzarnia@hotmail.com
+<br />majid.mahzarnia@gmail.com
+<br />navid.nejati@gmail.com
