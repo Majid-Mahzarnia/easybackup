@@ -387,7 +387,7 @@ echo 'printf "#### Diff Files Before:  - "'" >> $diff_log" >> $lunch_file_name
 echo 'diff -qr $mntsource1/ $mntdest1/' " >> $diff_log" >> $lunch_file_name
 printf "#copy section\n" >> $lunch_file_name
 echo 'date'" >> $transfer_log" >> $lunch_file_name
-printf "cp -vpin $mntsource1/* $mntdest1\n" >> $lunch_file_name
+printf "cp -rvpin $mntsource1/* $mntdest1\n" >> $lunch_file_name
 printf "#diff after\n" >> $lunch_file_name
 echo 'printf "#### Diff Files After:  - "'" >> $diff_log" >> $lunch_file_name
 echo 'diff -qr $mntsource1/ $mntdest1/' " >> $diff_log" >> $lunch_file_name
