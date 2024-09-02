@@ -1,5 +1,6 @@
 # easybackup
-easybackup script 
+easybackup script is a simple bash script that helps you to make schedule jobs to copy from smb share folder to anothe one.
+
 ####
 <br />What is easybackup script and what it use for?
 
